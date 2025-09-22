@@ -1,5 +1,7 @@
 The Tedi company project licence TCOL 1.0 (Tedi company open source licence 1.0)
 
+                         September 22nd, 2025
+
                        Version 1.0 and bilingual
 
 
@@ -17,22 +19,22 @@ The Tedi company project licence TCOL 1.0 (Tedi company open source licence 1.0)
                           * Tem que manter essa licença
                           * Tem que modificar o projeto
             * Tem que dar o credito bem visivel do autor da verção original
-        * Tem que dar o credito do autor na capa e no site do projeto da verção original
+   * Tem que dar o credito do autor original na capa e no site do projeto da verção modificada
                         * Tem que avisar que foi modificado
                   * Tem que publicar uma lista do que foi modificado 
-         * não pode não avisar que essa copia não tem relação com a obra original
+         * tem que avisar que essa copia não tem relação com a obra original
                      * não pode ser aplicado um preço de venda
 
                               Normas de uso pessoal:
 
-                          * Tem que manter essa licença
+                         * Tem que manter essa licença
                          * Tem que modificar o projeto
-           * Tem que dar o credito bem visivel do autor da verção original
-      * Tem que dar o credito do autor na capa e no site do projeto da verção original
-                       * Tem que avisar que foi modificado
-                 * Tem que publicar uma lista do que foi modificado 
-        * não pode não avisar que essa copia não tem relação com a obra original
-                   * não pode ser aplicado um preço de venda
+            * Tem que dar o credito bem visivel do autor da verção original
+   * Tem que dar o credito do autor original na capa e no site do projeto da verção modificada
+                        * Tem que avisar que foi modificado
+                  * Tem que publicar uma lista do que foi modificado 
+         * tem que avisar que essa copia não tem relação com a obra original
+                     * não pode ser aplicado um preço de venda
 
                                  Direitos Autorais:
             O direito autoral deve estar ligado a obra original e seu desenvolvedor. 
