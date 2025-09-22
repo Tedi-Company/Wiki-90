@@ -1,4 +1,4 @@
-The Tedi company project licence TCOL 1.0 (Tedi company open source licence 1.0
+The Tedi company project licence TCOL 1.0 (Tedi company open source licence 1.0)
 
                        Version 1.0 and bilingual
 
