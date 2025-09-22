@@ -35,3 +35,5 @@ The Tedi company project licence TCOL 1.0 (Tedi company open source licence 1.0
                    * não pode ser aplicado um preço de venda
 
                                  Direitos Autorais:
+            O direito autoral deve estar ligado a obra original e seu desenvolvedor. 
+    A copia tera os direitos de redistribuição com uma marcação do projeto original e seu desenvolvedor.
