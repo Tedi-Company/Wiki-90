@@ -1,7 +1,35 @@
-<!DOCTYPE html>
-<head>
-  <style>
-    body {
-    background-color: white
-  </style>
-</head>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <title>Layout Centralizado</title>
+        <style>
+            body {
+                background-color: white;
+                margin: 0;
+                display: flex; /* ou grid */
+                justify-content: center; /* Centraliza horizontalmente */
+                align-items: center; /* Centraliza verticalmente */
+                min-height: 100vh; /* Garante que o body ocupe toda a altura para centralizar */
+                background-color: #f0f0f0; /* Cor de fundo opcional */
+            }
+
+            .container-tela {
+                width: 640px;
+                height: 480px;
+                border: 1px solid black; /* Para visualizar a área */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                box-sizing: border-box; /* Inclui a borda na largura e altura */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-tela">
+            <!-- Seu conteúdo aqui -->
+            <h1>Conteúdo na tela de 640x480</h1>
+            <p>Este conteúdo está centralizado.</p>
+        </div>
+    </body>
+    </html>
